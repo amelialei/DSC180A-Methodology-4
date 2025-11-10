@@ -1,6 +1,7 @@
 # **Amelia Lei**
 ### *aclei@ucsd.edu*
-### *Section B24 - Mentors: Dr. Ali Arsanjani & Dr. Sam Lau*
+### *Section B24*
+### *Mentors: Dr. Ali Arsanjani & Dr. Sam Lau*
 
 ## **Quarter 2 Project Brainstorm**
 ### **1. What is the most interesting topic covered in your domain this quarter?**
